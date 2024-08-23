@@ -12,17 +12,19 @@
 
 </div><br/>
 
-![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=adriano-allef&show_icons=true&theme=dracula&locale=pt-br)
+![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=adriano-allef&show_icons=true&theme=dark&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-allef&theme=dracula&locale=pt-br)](https://github.com/adriano-allef/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-allef&theme=dark&locale=pt-br)](https://github.com/adriano-allef/github-readme-stats)
 
 <div>
 
 ### Projetos e Estudos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=testes-automatizados-JEST&theme=dracula&locale=pt-br)](https://github.com/adriano-allef/testes-automatizados-JEST)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=testes-automatizados-JEST&theme=dark&locale=pt-br)](https://github.com/adriano-allef/testes-automatizados-JEST)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=testes-automatizados-JEST&theme=dracula&locale=pt-br)](https://github.com/adriano-allef/testes-automatizados-JEST)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=primeiro-servidor-express&theme=dark&locale=pt-br)](https://github.com/adriano-allef/primeiro-servidor-express)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=primeiro-servidor-fastify&theme=dark&locale=pt-br)](https://github.com/adriano-allef/primeiro-servidor-fastify)
 
 </div>
 
