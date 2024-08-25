@@ -26,6 +26,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=primeiro-servidor-fastify&theme=dark&locale=pt-br)](https://github.com/adriano-allef/primeiro-servidor-fastify)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=estudo-de-rotas-intermediarios-controladores&theme=dark&locale=pt-br)](https://github.com/adriano-allef/estudo-de-rotas-intermediarios-controladores)
+
 </div>
 
 ### Estudante de Desenvolvimento Full Stack na Cubos Academy.
