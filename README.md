@@ -20,13 +20,16 @@
 
 ### Projetos e Estudos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=estudo-api-rest&theme=dark&locale=pt-br)](https://github.com/adriano-allef/estudo-api-rest)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=estudo-de-rotas-intermediarios-controladores&theme=dark&locale=pt-br)](https://github.com/adriano-allef/estudo-de-rotas-intermediarios-controladores)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=testes-automatizados-JEST&theme=dark&locale=pt-br)](https://github.com/adriano-allef/testes-automatizados-JEST)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=primeiro-servidor-express&theme=dark&locale=pt-br)](https://github.com/adriano-allef/primeiro-servidor-express)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=primeiro-servidor-fastify&theme=dark&locale=pt-br)](https://github.com/adriano-allef/primeiro-servidor-fastify)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriano-allef&repo=estudo-de-rotas-intermediarios-controladores&theme=dark&locale=pt-br)](https://github.com/adriano-allef/estudo-de-rotas-intermediarios-controladores)
 
 </div>
 
